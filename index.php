@@ -3,7 +3,11 @@
 <body>
 
 <?php
-echo "Hello World!";
+$name = "Rob";
+$date = "";
+
+echo "Hello " . $name . "<br>";
+echo "Todays date is " . $date;
 ?>
 
 </body>
