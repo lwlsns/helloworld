@@ -7,7 +7,7 @@ $name = "Rob";
 $date = "";
 
 echo "Hello " . $name . "<br>";
-echo "Todays date is " . $date;
+echo "Todays date is ";
 ?>
 
 </body>
